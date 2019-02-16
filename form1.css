@@ -1,0 +1,24 @@
+.main{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  border:2px solid #ddd;
+}
+.ca{
+  border:2px solid #ddd;
+  width:90%;
+  margin:2%;
+  padding:2%;
+}
+.s1{
+  width:40%;
+  border:2px solid #ddd;
+  margin:2%;
+  padding: 2%;
+}
+select,input{
+  width: 90%;
+  margin:1%;
+  padding:1%
+}
